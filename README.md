@@ -1,5 +1,5 @@
 ### Hi there 👋
-> My Name Is [Anil Seervi](https://anilseervi.github.io/Website/).
+> My Name Is [Anil Seervi](https://anilseervi.github.io/Portfolio/).
 
 > I'm a self-taught front-end developer Currently learning JS and react
 >
