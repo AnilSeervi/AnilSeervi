@@ -8,7 +8,7 @@
 
 <h2 align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnilSeervi&show_icons=true&hide_border=true&theme=dark&count_private=true) ![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnilSeervi&layout=compact&hide_border=true&langs_count=8&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnilSeervi&show_icons=true&hide_border=true&theme=material-palenight&count_private=true) ![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnilSeervi&layout=compact&hide_border=true&langs_count=8&theme=material-palenight)
 
 </h2>
 <!--
