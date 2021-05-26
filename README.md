@@ -13,7 +13,7 @@ through my course of becoming a full-stack developer.
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anilseervi&theme=material-palenight&hide_border=true)](https://git.io/streak-stats)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnilSeervi&show_icons=true&hide_border=true&theme=material-palenight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?&username=AnilSeervi&layout=compact&hide_border=true&langs_count=8&theme=material-palenight&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?&username=AnilSeervi&layout=compact&hide_border=true&langs_count=8&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 <!--
