@@ -1,16 +1,21 @@
+<div align="center">
+  
 ### Hi there 👋
 
-> My Name Is [Anil Seervi](https://anilseervi.github.io/Portfolio/).
+My Name Is [Anil Seervi](https://anilseervi.pages.dev).
 
-> I'm a self-taught front-end developer Currently learning JS and react
->
-> through my course of becoming a full-stack developer.
+I'm a self-taught Front-End Developer, currently learning JS and react
 
-<h2 align="center">
+through my course of becoming a full-stack developer.
+  
+---
+### 🔖 My Stats 
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anilseervi&theme=material-palenight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnilSeervi&show_icons=true&hide_border=true&theme=material-palenight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?&username=AnilSeervi&layout=compact&hide_border=true&langs_count=8&theme=material-palenight&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnilSeervi&show_icons=true&hide_border=true&theme=material-palenight&count_private=true) ![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnilSeervi&layout=compact&hide_border=true&langs_count=8&theme=material-palenight)
-
-</h2>
+</div>
 <!--
 **AnilSeervi/AnilSeervi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
