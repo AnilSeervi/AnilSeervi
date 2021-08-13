@@ -4,9 +4,9 @@
 
 My Name Is [Anil Seervi](https://anilseervi.pages.dev).
 
-I'm a self-taught Front-End Developer, currently learning JS and react
+I'm a self-taught Front-End Developer, currently learning Gatsbyjs
 
-through my course of becoming a full-stack developer.
+through my course to becoming a full-stack developer.
   
 ---
 ### 🔖 My Stats 
