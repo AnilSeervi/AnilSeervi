@@ -2,11 +2,11 @@
   
 ### Hi there 👋
 
-My Name Is [Anil Seervi](https://anilseervi.pages.dev).
+My Name Is [Anil Seervi](https://anilseervi.pages.dev)
 
-I'm a self-taught Front-End Developer, currently learning Gatsbyjs
+I'm a self-taught Front-End Developer
 
-through my course to becoming a full-stack developer.
+Currently learning Next.js and TypeScript
   
 ---
 ### 🔖 My Stats
