@@ -1,15 +1,31 @@
-<div align="center">
+<div align="right">
+
+[Portfolio](https://anilseervi.pages.dev) | [Blog](https://ar.hashnode.dev) | [Socials](https://anil.pages.dev)
+
+</div>
+
+# 👋 Hi there 
+
+My Name is [**Anil Seervi**](https://anilseervi.pages.dev)
   
-### Hi there 👋
-
-My Name Is [Anil Seervi](https://anilseervi.pages.dev)
-
-I'm a self-taught Front-End Developer
-
+I'm a self-taught Front-End Developer.
+  
 Currently learning Next.js and TypeScript
-  
----
-### 🔖 My Stats
+
+
+## 🚧 My Projects
+
+- [📝 DevFolio](https://devfolio.js.org) - Well documented  Portfolio [Template](https://github.com/AnilSeervi/DevFolio).
+- [🎓 QP Hoard](https://qp.pages.dev) - PWA Hoarding Question Papers for undergrads.
+- [🌩️ Atmos](https://atmos.pages.dev) - The Modern UI Weather App.
+- [🥘 Recipes Counter](https://recipes-counter.web.app) - Fullstack Recipes logging PWA.
+- [⏳ Pomodorox](https://pomodorox.pages.dev) - Hourglass concept pomodoro timer.
+
+...explore my [other repos](https://github.com/AnilSeervi?tab=repositories) for more projects.
+
+<div align="center">
+
+## 🔖 My Stats
 
 [![](https://komarev.com/ghpvc/?username=anilseervi&style=flat-square&color=C691E9)](https://github.com/antonkomarev/github-profile-views-counter)
 
