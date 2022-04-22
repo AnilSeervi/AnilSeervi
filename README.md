@@ -1,21 +1,22 @@
 <div align="right">
 
-[Portfolio](https://anilseervi.pages.dev) | [Blog](https://ar.hashnode.dev) | [Socials](https://anil.pages.dev)
+[Portfolio](https://an8.me) | [Blog](https://anil.gatsbyjs.io) | [Socials](https://anil.pages.dev)
 
 </div>
 
 # 👋 Hi there 
 
-My Name is [**Anil Seervi**](https://anilseervi.pages.dev)
+My Name is [**Anil Seervi**](https://an8.me)
   
-I'm a self-taught Front-End Developer.
+I'm a self taught Front-End Developer, SDE at **@Zenduty**.
   
-Currently learning Next.js and TypeScript
+Currently learning Next.js and TypeScript.
 
 
 ## 🚧 My Projects
 
-- [📝 DevFolio](https://devfolio.js.org) - Well documented  Portfolio [Template](https://github.com/AnilSeervi/DevFolio).
+- [💼 DevFolio](https://devfolio.js.org) - Well documented Portfolio [Template](https://github.com/AnilSeervi/DevFolio).
+- [📝 Blog](https://anil.gatsbyjs.io) - Personal blog site.
 - [🎓 QP Hoard](https://qp.pages.dev) - PWA Hoarding Question Papers for undergrads.
 - [🌩️ Atmos](https://atmos.pages.dev) - The Modern UI Weather App.
 - [🥘 Recipes Counter](https://recipes-counter.web.app) - Fullstack Recipes logging PWA.
