@@ -12,8 +12,7 @@ I'm a self taught Front-End Developer, SDE at **@Zenduty**.
   
 Currently learning Next.js and TypeScript.
 
-
-## 🚧 My Projects
+## 🚧 Projects
 
 - [💼 DevFolio](https://devfolio.js.org) - Well documented Portfolio [Template](https://github.com/AnilSeervi/DevFolio).
 - [📝 Blog](https://anil.gatsbyjs.io) - Personal blog site.
@@ -26,7 +25,15 @@ Currently learning Next.js and TypeScript.
 
 <div align="center">
 
-## 🔖 My Stats
+## ⚡️ Skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,vite,nextjs,gatsby,html,css,sass,md,tailwind,git,github,vscode,figma)](https://skillicons.dev)
+
+</div>
+
+<div align="center">
+
+## 🔖 Stats
 
 [![](https://komarev.com/ghpvc/?username=anilseervi&style=flat-square&color=C691E9)](https://github.com/antonkomarev/github-profile-views-counter)
 
