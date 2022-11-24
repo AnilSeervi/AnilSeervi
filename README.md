@@ -1,12 +1,12 @@
 <div align="right">
 
-[Portfolio](https://an8.me) | [Blog](https://anil.gatsbyjs.io) | [Socials](https://anil.pages.dev)
+[Portfolio](https://anil.vercel.app) | [Blog](https://anil.gatsbyjs.io) | [Socials](https://anil.pages.dev)
 
 </div>
 
 # 👋 Hi there 
 
-My Name is [**Anil Seervi**](https://an8.me)
+My Name is [**Anil Seervi**](https://anil.vercel.app)
   
 I'm a self taught Front-End Developer, SDE at **@Zenduty**.
   
