@@ -1,6 +1,6 @@
 <div align="right">
 
-[Portfolio](https://anil.vercel.app) | [Blog](https://anil.gatsbyjs.io) | [Socials](https://anil.pages.dev)
+[Portfolio](https://anil.vercel.app) | [Blog](https://anil.vercel.app/blog) | [Socials](https://anil.pages.dev)
 
 </div>
 
@@ -14,6 +14,7 @@ Currently learning Next.js and TypeScript.
 
 ## 🚧 Projects
 
+- [👀 Portfolio Site](https://anil.vercel.app) - Personal Portfolio Site
 - [💼 DevFolio](https://devfolio.js.org) - Well documented Portfolio [Template](https://github.com/AnilSeervi/DevFolio).
 - [📝 Blog](https://anil.gatsbyjs.io) - Personal blog site.
 - [🎓 QP Hoard](https://qp.pages.dev) - PWA Hoarding Question Papers for undergrads.
