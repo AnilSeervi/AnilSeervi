@@ -8,15 +8,12 @@
 
 My Name is [**Anil Seervi**](https://anil.vercel.app)
   
-I'm a self taught Front-End Developer, SDE at **@Zenduty**.
-  
-Currently learning Next.js and TypeScript.
+I'm a self taught Front-End Developer, SDE 2 at [**@Zenduty**](https://github.com/anilszen).
 
 ## 🚧 Projects
 
 - [👀 Portfolio Site](https://anil.vercel.app) - Personal Portfolio Site
 - [💼 DevFolio](https://devfolio.js.org) - Well documented Portfolio [Template](https://github.com/AnilSeervi/DevFolio).
-- [📝 Blog](https://anil.gatsbyjs.io) - Personal blog site.
 - [🎓 QP Hoard](https://qp.pages.dev) - PWA Hoarding Question Papers for undergrads.
 - [🌩️ Atmos](https://atmos.pages.dev) - The Modern UI Weather App.
 - [🥘 Recipes Counter](https://recipes-counter.web.app) - Fullstack Recipes logging PWA.
